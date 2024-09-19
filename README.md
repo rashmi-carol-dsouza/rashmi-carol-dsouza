@@ -22,9 +22,9 @@ I particularly enjoy building full stack data driven applications.
 
 🔧 Tools I Like To Use
 
-* Scikit-learn
+* Flask
 * Tableau
-* Keras
+* Terraform
 
 
 
