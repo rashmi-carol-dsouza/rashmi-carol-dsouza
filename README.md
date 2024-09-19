@@ -8,7 +8,7 @@ I'm done my Masters in Data Science and Project Management from HTW Berlin. I ha
 
 I particularly enjoy building full stack data driven applications.
 
-🔭 I’m working on: Developing an automated pipeline for seamless file uploads, processing, and database storage with integrated monitoring and logging. The last app I worked on, [Hypowise API](http://hypowise.de/)) is a mortgage breakdown web application to help users make smarted financial descisions.
+🔭 I’m working on: Developing an automated pipeline for seamless file uploads, processing, and database storage with integrated monitoring and logging. The last app I worked on, [Hypowise API](http://hypowise.de/) is a mortgage breakdown web application to help users make smarted financial descisions.
 
 🌱 I’m currently learning: AWS services to build scalable data pipelines.
 
